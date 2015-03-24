@@ -298,14 +298,15 @@ Class Style
 }
 
 .boxItems{
-  padding: 5px;
+  /*padding: 3px;*/
   float: left;
+
 }
 
 .mainArticle{
   float: left;
-  width: 300px;
-  height: 220px;
+  width: 270px;
+  height: 250px;
   margin-top: 16px;
   margin-left: 9px;
   margin-right: 0px;
